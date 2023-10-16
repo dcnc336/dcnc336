@@ -15,7 +15,7 @@
         mobileApp: {
             native: ["Android Development", "IOS Development"]
         },
-        devOps: ["AWS", "Docker🐳", "kubernetes", "Nginx"],
+        devOps: ["AWS", "Azure" "Docker🐳", "kubernetes", "CI/CD workflows", "Nginx"],
         databases: ["Mongo","Postgresql", "MariaDB", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
@@ -25,14 +25,6 @@
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C370%20hrs%2027%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1354-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
