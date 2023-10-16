@@ -10,7 +10,7 @@
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express", "Laravel"],
+            js: ["Node", "Express", "Laravel", "Next", "Vue", "Augular", "React"],
         },
         mobileApp: {
             native: ["Android Development", "IOS Development"]
